@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**charlottebacchetta/charlottebacchetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Charlotte Bacchetta ☀️  
+French-American 🇫🇷🇺🇸, from Paris now based in New York 🗽  
 
-Here are some ideas to get you started:
+🎓 Education  
+- Bachelor in Economics, Management & Computer Science (Bocconi University, Italy)  
+- Master’s in Technology Policy & Data Science (Columbia University, SIPA)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interests  
+- AI Governance & Digital Innovation  
+- Data Science & Cloud-based Analytics  
+- Technology Policy & International Affairs  
+
+🔧 Skills  
+Python · SQL · BigQuery · Streamlit · Pandas · Stata  
+Cloud (Google Cloud, AWS basics) · Data pipelines · Dashboards · Econometrics  
+
+🌱 Currently learning  
+- Cloud-based ETL pipelines and automation  
+- AI policy and governance frameworks  
+- Advanced econometrics and causal inference  
+
+💬 Ask me about  
+AI governance · Data science · Digital policy · International affairs  
+
+📫 How to reach me  
+[LinkedIn](https://www.linkedin.com/in/charlottebacchetta) · cmb2374@columbia.edu  
+
+⚡ Fun fact  
+I’m passionate about bridging technology and governance to build more trustworthy digital ecosystems 🌍  
