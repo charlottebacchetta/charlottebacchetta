@@ -17,5 +17,5 @@ Python · SQL · BigQuery · Streamlit · Pandas · Stata
 Cloud (Google Cloud) · Data pipelines · Dashboards (Looker Studio) · Econometrics  
 
 📫 How to reach me  
-[LinkedIn](https://www.linkedin.com/in/charlottebacchetta) · cmb2374@columbia.edu  
+[LinkedIn]([https://www.linkedin.com/in/charlottebacchetta]) · cmb2374@columbia.edu  
  
